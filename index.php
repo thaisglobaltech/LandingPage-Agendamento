@@ -95,7 +95,7 @@
           <a href="#demo" class="btn cta-btn">Ver Demonstração</a>
         </div>
         <div class="col-md-6 text-center mt-4 mt-md-0">
-          <img src="./imagens/Gemini_Generated_Image_uc92hyuc92hyuc92.png" alt="Profissional da área da beleza" class="hero-img">
+          <img src="Gemini_Generated_Image_uc92hyuc92hyuc92.png" alt="Profissional da área da beleza" class="hero-img">
         </div>
       </div>
     </div>
@@ -131,10 +131,10 @@
     <h3 class="section-title">Demonstração do Sistema</h3>
     <div class="row justify-content-center">
       <div class="col-md-6 mb-4">
-        <img src="./imagens/ChatGPT Image 30 de set. de 2025, 10_03_46.png" alt="Login e Formulário" class="demo-img">
+        <img src="ChatGPT Image 30 de set. de 2025, 10_03_46.png" alt="Login e Formulário" class="demo-img">
       </div>
       <div class="col-md-6 mb-4">
-        <img src="./imagens/ChatGPT Image 30 de set. de 2025, 10_24_22.png" alt="Painel de Agendamentos" class="demo-img">
+        <img src="ChatGPT Image 30 de set. de 2025, 10_24_22.png" alt="Painel de Agendamentos" class="demo-img">
       </div>
     </div>
   </section>
@@ -153,3 +153,4 @@
 
 </body>
 </html>
+
